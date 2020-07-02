@@ -10,7 +10,7 @@
 
 
 
-'''bash
+'''
 wps-2019-help-doc
 ├── WPS Office 2019.md
 │   ├── WPS 2019 Document.md
